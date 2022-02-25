@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Third abstract of the state of the mines of Bwlchyr Eskir-hir in the county of Cardigan from the thirtieth day of April last (inclusive) to this present day of December 1700 / by order of the committee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64501</idno>
+            <idno type="STC">Wing T896</idno>
+            <idno type="STC">ESTC R30163</idno>
+            <idno type="EEBO-CITATION">11254489</idno>
+            <idno type="OCLC">ocm 11254489</idno>
+            <idno type="VID">47156</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47156)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1451:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Third abstract of the state of the mines of Bwlchyr Eskir-hir in the county of Cardigan from the thirtieth day of April last (inclusive) to this present day of December 1700 / by order of the committee.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Collins in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A report on the mines formerly owned by Carbery Pryse exploited by Sir Humphrey Mackworth in the mine-adventure.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mines and mineral resources --  Wales.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47156:1"/>
+            <pb n="1" facs="tcp:47156:1" rendition="simple:additions"/>
+            <head>THE THIRD ABSTRACT Of the State of the Mines of BWLCHYR ESKIR-HIR In the County of CARDIGAN.</head>
+            <head type="sub">From the Thirtieth Day of <hi>April</hi> laſt (incluſive) to this preſent Nineteenth Day of <hi>December,</hi> 1700.</head>
+            <p>
+               <hi>By Order of the Committee.</hi>
+            </p>
+            <p>THE Committee ſince the laſt Printed Account of the Mines, have received ſeveral Letters from Mr. <hi>Waller,</hi> and others, to the Effect following, <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>April</hi> the <hi>30th.</hi> from Mr. <hi>Waller.</hi>
+               </head>
+               <p>That the new Pit which in his laſt <hi>(mentioned in the former Abſtract)</hi> was as if it were paved with Oar, continues in good Potters Oar; we have met with the Sun-ſide of the Vein, but have not yet found the North-ſide, ſo that what wideneſs it will carry I cannot yet inform you.</p>
+               <p>The new Work widens as it goes downward, and is grown into a firm Rib of Oar; and that which was the worſt part is now become as good as the reſt.</p>
+               <p>We have begun a ſmall Drift at the Shaft (E.) in the Weſt Level, to carry off the Water, and have ſmall ſparks of Oar there.</p>
+               <p>We raiſe ſome Oar in the great Work: <hi>Benjamin Michael</hi>'s Veſſel is arrived with Coal from <hi>Neath: Turner</hi>'s Veſſel is Freighted with Oar, and will ſail with the firſt fair Wind.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>May</hi> the Seventh.</head>
+               <p>Our new Pit in the Head of <hi>Curtis</hi>'s Drift goes down in Oar: The new Work continues good, and the Sparr Rider Under cuts with Oar. The Shaft at E. goes down well; the Oar there ſets to the North. We continue to raiſe Oar out of the great Work. <hi>Benjamin Michael</hi>'s Veſſel will be load<g ref="char:EOLhyphen"/>ed with Oar to Morrow.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>May</hi> the Fourteenth.</head>
+               <p>That the new Pit is ſunk down to the bottom of <hi>Curtis</hi>'s Drift. We met with a Vein Rider four Foot wide: The ſettled Rib of Oar ſets on the Sun-ſide; we have a mixture of Oar all over, the widneſs is yet uncertain. This is like to prove a wonderful Vein in the Deep, and fine Potters Oar. We had it about 30 Yards Eaſt of this place nine Yards wide in Oar and Vein-ſtone: The exceſſive wet Weather obſtructed our Men in the new Work. I have employ'd Waſhers to Dreſs up the worſt of that Oar. The Shaft between L and K is now ſunk. Since we ſet on the great Work, we have cut into the Copper Vein; and Mr. <hi>Waller</hi> ſtay'd all Night under ground to ſee the Event, which had like to have coſt him his Life. We got about two Foot cut into it very rich in Oar, and could ſee no ſign of the further ſide; but we durſt cut no further, there came ſo much Water out of it, for fear it ſhould over-ſet our Pumps, and drown us out. We have loaden in <hi>Benjamin Michael</hi>'s Veſſel, called, <hi>The Hope of Neath,</hi> 81 Tons of good Oar, and ſhe will ſail the firſt fair Wind.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>May</hi> the Twenty Firſt.</head>
+               <p>The Work-men at <hi>Curtis</hi>'s Drift, and new Work, go well on: They affirm they hear the Knoc<g ref="char:EOLhyphen"/>kers to the Sun of them; and we have ſome Reaſon to believe there is another Vein there, having Shoad-Oar above which could not tumble up Hill, and therefore muſt come from ſome Vein there<g ref="char:EOLhyphen"/>abouts. The Shafts D and E are much troubled with Water; and the great Work is ſo ſtrongly watered, that we have not yet been able to make any further Trial of the Copper Vein: That Vein is above two Yards wide. We have ſome ſparks of the Lead Oar mix'd with the Copper. The <hi>Hope</hi> of <hi>Neath</hi> ſail'd laſt <hi>Friday.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>May</hi> the Twenty Eighth.</head>
+               <p>We continue driving from <hi>Curtis</hi>'s Drift to the new Work; in which Drift we have cut about a Yard in good Oar, and are not yet at the Sun-ſide of the Vein. At five Yards high above the Le<g ref="char:EOLhyphen"/>vel, we have ſet on ſix Men at 20 <hi>s. per</hi> Fathom to drive in Oar, and are in hopes that Oar will not ſtand us in a Noble <hi>per</hi> Ton; and as ſoon as they are driven out two Fathom, we will ſet on ſix Men more to drive in Oar under them. It is a glorious fine Vein, and widens in ſinking as well as in driving: We ſhall not raiſe much Oar till the Drift be up to the new Work.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>June</hi> the Fourth.</head>
+               <p>We have in <hi>Curtis</hi>'s Drift croſs'd through the Oar, but the Stone on the Sun ſide is a Vein Rider, ſo we expect more Oar on the other ſide of it, that Vein Rider being like to be all Oar at the Deep; The new Work continues very good, but the great Work is ſtrongly watered, the Water that feeds
+<pb n="2" facs="tcp:47156:2"/>the Copper Vein being now let into it. Mr. <hi>Turner</hi> is return'd again from <hi>Neath</hi> with Coal, for another loading of Oar, and will be Freighted this Week.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>June</hi> the Eleventh.</head>
+               <p>In carrying on <hi>Curtis</hi>'s Drift to the new Work, we met with a new Rib of Copper Oar joyning to the Sun-ſide of the Lead Oar, about four Inches wide, but how this will prove is yet uncertain. The Eaſt Level hath met with a Chink, which tho' it be thirty Yards from the Bog-work, yet has let out the water there, and we are in hopes, it will dry that Work.</p>
+               <p>We have ventured again to cut into the Copper Vein from the great Work, where we find Lead as well as Copper-Oar: We are got about a Yard into it, but we are afraid that Water will be too hard for our common Pumps; it is like to prove a rich Vein. We cut into this Copper Vein about four Fathoms from this place, where we found it two Yards and a half wide; and there the Cop<g ref="char:EOLhyphen"/>per Oar was but ſmall like Peaſe, but here they are in a firm body, but ſtrongly watered, which is the better to be liked if our Levels were up. The great Work is very good, and the new Work be<g ref="char:EOLhyphen"/>gins to lengthen in Oar at both ends.</p>
+               <p>Our Market on the Mountain is very good every <hi>Saturday;</hi> and we have now got a Perſon to read Prayers to the Miners. Mr. <hi>Turner</hi> was loaden again laſt <hi>Saturday</hi> with Oar, and will ſail the firſt fair Wind.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>June</hi> the Eighteenth.</head>
+               <p>The Bog-work continues draining through the Chink in the Eaſt Level: I have ſet Men to dreſs the Deads: I ſhall want more Miners for that Work.</p>
+               <p>The new Work gains in Oar on the Spar Rider; the Boaring Engines will be uſeful in raiſing Oar hereafter, but not in our preſent way of working.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>June</hi> the Twenty Fifth.</head>
+               <p>We are Dreſſing and Timbering the Bog-work; the new Work continues rich in Oar. We are much oppreſſed with water in the great Work, but we have 18 Men employ'd in raiſing Oar. We are cutting down a Rib that was formerly left for Stone, which proves very good hard Oar.</p>
+               <p>Mr. <hi>Waller</hi> in this Letter takes notice, That his Year for ſetting the Works in Order is almoſt ex<g ref="char:EOLhyphen"/>pired, that he expects his Sallary for that Year according to Agreement, but that he will ſtand to his Offer for the reſt; that tho' he has met with harder Rocks than he expected, which has delay'd the Levels, yet he has alſo met with other Diſcoveries which are ſufficient to encourage him to ſtand his ground.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> the Second.</head>
+               <p>The Men are raiſing ſome Oar in the great Work and new Work, which the deeper we go the more it gains in Oar on the Spar Rider, which promiſes fair to be all Oar at the Level. <hi>Turner</hi> is loaden, but the Wind is againſt him.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> the Ninth.</head>
+               <p>In the Bog work the Sludge and Dirt got into the Chink, and ſtopp'd the water from running away. The Levels and Shafts go well forward; the new Work mends and gains ſtill on the Spar Rider. The great Work is ſore watered. Mr. <hi>Turner</hi> ſail'd yeſterday for <hi>Neath.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> the Sixteenth.</head>
+               <p>The Water is grown too hard for our ordinary Pumps in the great Work; we muſt either ſtay till the Levels are up, or get an Engine that will force up more Water. The new Work goes on well; when our Levels are up, all theſe obſtructions will be removed.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> the Twenty Third.</head>
+               <p>The Drift to the new Work is now in the Spar Rider, and hath a great mixture of Oar in it. We have but three Yards, or thereabouts, to the new Work, ſo we cannot doubt but this Spar Rider will be all Oar at the deepneſs of our Level.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>July</hi> the Thirtieth.</head>
+               <p>Mr. <hi>Turner</hi> is arrived again at <hi>Dovey</hi> with Coals from <hi>Neath,</hi> and will be loaded with Oar this Week. We are preparing a Water-Engine to conquer the Water in the great Work till the Level is up; all the other Works go well forward.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Auguſt</hi> the Seventh.</head>
+               <p>The new Work continues very good, and the Oar in the Drift from <hi>Curtis</hi>'s Drift is ſtill better. The Bog-work may prove better than the great Vein, when the Levels are up to it, the Vein-Rider being five Yards wide, and like to be moſt of it Oar, beſides four Foot in Oar on the Sun-ſide of it. Sir <hi>Humphry Mackworth</hi> is now at the Mines. <hi>Turner</hi> is loaden with Oar, and will ſail the firſt fair wind.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Auguſt</hi> the Thirteenth.</head>
+               <p>A Flood of Water has by the weight of it forced open the paſſage, and carried the Water from the Bog-work to the Eaſt Level, and we are preparing to raiſe Oar in that Work. Several of our Men are ſick of a Fever.</p>
+               <p>Sir <hi>Humphry Mackworth</hi> has contracted for a place to build a Cupulo in this County, very conve<g ref="char:EOLhyphen"/>nient for the Company, being by the ſide of the Navigable River <hi>Dovey.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Auguſt</hi> the Twentieth.</head>
+               <p>We continue to dreſs out the Bog-work; the Eaſt and Weſt Level go well forward. The Shaft (D) wants fifteen Yards to the bottom. The new Work continues very good.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Auguſt</hi> the Twenty Seventh.</head>
+               <p>The new Work is encreas'd in Oar this Week one Foot in breadth; <hi>Curtis</hi> Drift to it is all faced in firm rich Oar, and we hope will continue in Oar to the new Work, which is ſix or ſeven Foot more. Mr. <hi>Minſhall,</hi> the Goldſmith, is now with us to view it, and to carry the good News to Sir <hi>Humphry Mackworth</hi> at <hi>Mathaverne.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:47156:2"/>
+               <head>
+                  <hi>September</hi> the Fifth.</head>
+               <p>Mr. <hi>Turner</hi> is ſailed from <hi>Neath</hi> to <hi>London,</hi> Freighted with Lead and Lytharge, of which an In<g ref="char:EOLhyphen"/>voice is incloſed.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>September</hi> the Tenth.</head>
+               <p>We have ſtruck upon Oar in ſinking the Shaft at (E) in the Weſt Level, which heads to us in the ſinking, and widens downward. Sir <hi>Humphry Mackworth,</hi> Mr. <hi>Young,</hi> and Mr. <hi>Player,</hi> are ſet out from the Mines; Mr. <hi>Young</hi> to <hi>London,</hi> the other to <hi>Neath.</hi> Mr. <hi>Curtis</hi> and the Engineer are here.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>September</hi> the Eleventh, Mr. <hi>Curtis</hi> to the Committee.</head>
+               <p>That the Ship, called, <hi>The Hope of Neath,</hi> which lately carried Lead and Lytharge from <hi>Neath</hi> to <hi>London,</hi> is arrived from <hi>London</hi> to <hi>Dovey,</hi> and amongſt other Freight, hath brought ſeveral Cri<g ref="char:EOLhyphen"/>minals to Work at the Mines. That Mr. <hi>Player</hi> and he hath ſeen the new Diſcovery, and that it affords a noble ſight of Oar.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>September</hi> the Sixteenth.</head>
+               <p>
+                  <hi>Mr.</hi> Player <hi>having lately taken a Progreſs to the North and Weſt of</hi> England, <hi>and viewed all the conſiderable Mines there, and afterwards the Mines of this Company, wrote a Letter:</hi>
+               </p>
+               <p>That he was juſt come from the Mines, where he could not ſee the great Vein, or Copper Vein, the Water from the Copper Vein having newly drown'd it; but in a Shaft then ſinking on it againſt the Weſt Level came up, the Sinkers were come to it again quick in Oar at about ten Fathom deep, and he ſuppoſed the Engine then going to be ſet up, would in a ſhort time clear the Water in the great Work, which the Miners ſaid was very rich in Oar for many Yards high.</p>
+               <p>The new Diſcovery and Bog-Vein have ſolid Oar in them at 7 yards deep, thicker than any I ſaw in the North, or elſewhere, in thoſe Mines reckoned the beſt in <hi>England,</hi> many of them 60, 80, and 100 yards deep, but I could not diſcover the full thickneſs of it, it inclining more than uſual to the North-ſide. <hi>Curtis</hi> Drift is but 4 or 5 yards North of it, and in Oar, and below it, which makes me think that may be the North part of the Vein; it is about 120 yards between the New Diſcovery and the Bog-work, and are both ſo like each other in Oar Demenſions, and in the turning and winding, that it muſt needs be the ſame Vein, and no doubt proves quick between the two places. We want more Miners.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>September</hi> the Seventeenth, Mr. <hi>Waller.</hi>
+               </head>
+               <p>The Oar in the great Vein at the Shaft at E. widens downwards. We ſhall begin again to raiſe Oar, in the Bog-work, this Week; we are now fixing the Engine in the great Work.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>September</hi> the Seventeenth, Mr. <hi>Curtis</hi> from the Mines.</head>
+               <p>All things here have a good face, and doubt not but the Partners will receive an Encouraging Ac<g ref="char:EOLhyphen"/>count from all hands. Sir <hi>Thomas Mackworth</hi> is now at the Mines. I ſhall return to <hi>London</hi> by way of <hi>Neath.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>October</hi> the Firſt, Mr. <hi>Waller.</hi>
+               </head>
+               <p>I have receiv'd the new Apprentices, they were glad to be parted from their Irons: I have ſepara<g ref="char:EOLhyphen"/>ted them in the Works as well as I can. I had four ſorts of Work, and I bid them try all, and then chuſe, <hi>(viz.) Either to Work in the Mines at the Oar, or to carry under Ground, or to Wind on the Bank, or to Pump Water.</hi>
+               </p>
+               <p>I made the Miners their Friends, by telling them; That I would give them their Work for ſome time, upon condition they ſhould teach them the Art of Mining. And I pleaſed many of the Crimi<g ref="char:EOLhyphen"/>nals, by telling them, I would advance the Apprentice in his Wages as ſoon as he came to be a Ma<g ref="char:EOLhyphen"/>ſter-Workman. Likewiſe I made a Speech to the Apprentices too long to inſert in a Letter, but to this purpoſe, <hi>(viz.) That this was the firſt Eſſay in</hi> England <hi>of this kind, to try if Criminals would be re<g ref="char:EOLhyphen"/>claimed and made uſeful to the Nation,</hi> and that I hop'd <hi>they would ſhew a good Example to encourage it, which if they did, it would not be the ſaving their Lives only, but (in all probability) of ſeveral thouſand more, and would be a great profit to the Nation,</hi> ſince it has been computed, that the Nation loſes ten Pounds <hi>per Annum</hi> for every Man that is Executed: <hi>Therefore I hoped, that for the good of themſelves, their Brethren, and their Country, that they would regain their loſt Credit, and Serve out their Time with Chearfulneſs;</hi> upon which they all promiſed fair, and ſeemed to be pleaſed.</p>
+               <p>
+                  <hi>Richard Collins,</hi> one of the Guard that came with them, likes the Works ſo well, that he intends to ſtay at the Mines.</p>
+               <p>Mr. <hi>Curtis</hi> and Mr. <hi>Thompſon</hi> went hence to <hi>Neath</hi> laſt <hi>Saturday;</hi> I wiſhed them here to have aſ<g ref="char:EOLhyphen"/>ſiſted me in ſettling my Apprentices.</p>
+               <p>I have ſix Men working at Oar in the Bog-work, and have boar'd into the new Work from <hi>Curtis</hi> Drift, which hath taken that water from us; that Work is very good.</p>
+               <p>We are ſtill ſinking in Oar in the great Vein in the Weſt Level at the Shaft E, and we hope to have that Weſt Level up to Oar in the quick Vein at <hi>Candlemas</hi> next.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>October</hi> the Fourth.</head>
+               <p>
+                  <hi>David Gibſon,</hi> and another of the Apprentices, are run from the Mines. They did not like Pumping, ſo the next day they tried to draw up the Oar at the Shaft, and when they had done, they waſh'd their hands, and ſaid, They had better have been hang'd than be tied to that Employment; and, indeed, they are ſo Lazy, that without compulſion, they will not do any Work at all.</p>
+               <p>Note, <hi>The Men run away are ſince taken, and committed to</hi> Newgate, <hi>in order to their Execution. And three more having Information that the firſt were not puniſh'd, are run away ſince, but ſeveral of them continue ſtill at the Mines, and are like to make good Workmen.</hi>
+               </p>
+               <p>And now we muſt acquaint you, That Mr. <hi>Waller</hi> having ſet Bargains in all the ſeveral Works of the Mines by the Great, and having not ſeen his own Country in ſeven Years, and the Company wan<g ref="char:EOLhyphen"/>ting Miners, all theſe conſiderations inclined the Committee to give Mr. <hi>Waller</hi> leave to go into the North, where he has been ever ſince, and is now expected home every Week. We have an Account
+<pb n="4" facs="tcp:47156:3"/>that he hath hired ſeveral good Miners to the Works; but ſince his Abſence, we have had no parti<g ref="char:EOLhyphen"/>cular Account of the progreſs of the ſeveral Shafts and Levels, but in general we hear, from Mr. <hi>Symon Priſe,</hi> and Mr. <hi>David Jones,</hi> that the Mines go on very proſperouſly in all parts, the Oar in the New Diſcovery being much richer and better than when the Committee were there, and the Oar in the Shaft (E) upon the great Vein, having ſettled into a firm Rib of pure Oar above half a yard wide, beſides a rich mixture, the wideneſs of all the Shaft, and ſtill grew wider and richer as they ſunk deeper; and that all the Miners agreed, that by <hi>Candlemas,</hi> or <hi>Lady-day</hi> at fartheſt, the Weſt Level would be up, in Oar, in the great Vein, and the Eaſt Level in the Bog-Vein, and New Diſcovery, and thereby the Partners expectations fully anſwered.</p>
+            </div>
+            <div type="part">
+               <head>As to the proceedings at <hi>Neath,</hi>
+               </head>
+               <p n="1">I. The Smelting and Refining there is continued, and carried on Night and Day with the utmoſt care and diligence, and the Profit thereby appears to be conſiderable, being rather more than leſs than is mentioned in our former Accounts.</p>
+               <p n="2">II. Sir <hi>Humphry Mackworth</hi> has carried up the Canal, from the River <hi>Neath,</hi> much higher than be<g ref="char:EOLhyphen"/>fore, and placed his Floodgates and Sluces ſo convenient, that a Ship of 100 Tun may come up the Canal, and when the Tide is out, the Veſſel may either be kept on float, or the two Sluces on the ſide of the Canal being let out, will float the Veſſel in an hours time, and carry her down to the Mouth of the Chanel. The Red-Lead Mills are alſo finiſhed, and are grinding our Lytharge ſmall for the conveniency of thoſe that deſire it. Many other conveniences are made at the Works at <hi>Neath,</hi> too long to be inſerted at large: And Sir <hi>H. Mackworth</hi> is now making an Artificial Waggon-way on Wooden-Rails, in the ſame manner as he carries his Coal to the Water-ſide, for the convenient and cheap Carriage of all Commodities to and fro, from the Canal to the Work-houſes, and from the Work-Houſes to the Canal.</p>
+               <p n="3">III. We are now alſo erecting Smelting Houſes in <hi>Cardigan-ſhire,</hi> at a place called <hi>Garege,</hi> ſituate on the Navigable River <hi>Dovey,</hi> of which we have taken a Leaſe for 99 Years Abſolute; this Building will be finiſhed in a ſhort time, all the Iron Plates, <hi>Storbridge</hi>-Claybricks, and other materials for the Furnaces, being prepared at <hi>Neath</hi> for cheapneſs and diſpatch; and we have now a good Stock of Coal in readineſs for Smelting there this Winter.</p>
+               <p>
+                  <hi>The reaſon which induced Sir</hi> Humphry Mackworth <hi>(to whom that Matter was referred) to take ſo long a Leaſe of the Smelting-Houſes in</hi> Cardigan-ſhire, <hi>is a proſpect that he hath in due time of in<g ref="char:EOLhyphen"/>corporating other good Mines, into the Intereſt, and under the preſent Conſtitution of this Company: It being deſigned ſo to Eſtabliſh this Undertaking, that the ſame may be continued to future Ages, as well for the Publick Good of this Nation, as for the private advantages of the preſent Partners, and their Succeſſors.</hi>
+               </p>
+               <p n="4">IV. We have made a conſiderable Progreſs, and are in hopes in a ſhort time, to Eſtabliſh a free Vent of our Commodities, in moſt of the Trading parts of the World.</p>
+               <p n="5">V. Theſe Proceedings, and the fair Proſpect that appears, by the Relation of the Gentlemen of the Committee, and other Partners who have viſited the Mines this laſt Summer, gives great En<g ref="char:EOLhyphen"/>couragement, and has induced the Committee, (amongſt other things) to buy a Ship of 120 Tuns, or thereabouts, not only for the ſpeedy diſpatch of Oar to Coal, and Coal to Oar, but that the Maſter thereof being fully acquainted with the Ports of <hi>Dovey</hi> and <hi>Neath,</hi> may hereafter Pilate other Ships that may be employed in the ſame Service, and alſo be a means to bring the Coaſters to more moderate Terms, when they ſee the Company are reſolved to provide Ships for themſelves, if they refuſe the Trade.</p>
+               <p>As to the taking the Condemn'd Criminals to Work at the Mines, as is mentioned above, the Deſign ſeems advantagious to the Publick, Charitable to the poor Offenders, and may in time be<g ref="char:EOLhyphen"/>come Profitable to the Company: But theſe few were only taken for a Tryal, and as Apprentices for Five Years, his Majeſty being graciouſly pleaſed to Pardon them on that Condition, that the Company might find out by Experience, what Methods may prove effectual, and may be proper to be Humbly Offer'd to His Majeſty, and the Honourable Members of both Houſes of Parliament, both for the Reclaiming, and making ſuch Criminals uſeful to the Nation: For tho' it is agreed by all, that his Majeſty may legally Pardon Criminals on any ſuch Condition, eſpecially where the Men are Free, and not the leaſt badge of Slavery uſed. Yet there ſeems a Neceſſity of having an Act of Parliament to make this matter generally Practicable and uſeful to the Nation; but at pre<g ref="char:EOLhyphen"/>ſent they are under no reſtraint, and the Company is bound to maintain them, in Meat, Drink, and Cloaths, to be Adjuſted and Settled (as in Caſe of other Apprentices) by the Juſtices of the Li<g ref="char:EOLhyphen"/>mits, in the County of <hi>Cardigan. Upon the whole Matter;</hi>
+               </p>
+               <p>As the Hardneſs of the Rocks, on the one ſide, has encreaſed upon us, and raiſed our Bargains with the Miners, from <hi>30 s.</hi> to <hi>7 1.</hi> a Fathom, which, together with a Fever on the Mountain, and the withdrawing of ſome of our men, delayed the carrying up of the Levels, beyond the time propoſed; ſo on the other ſide, the late New Diſcovery (ſo Rich in Oar, and ſo near the Surface) the Dreining of the Bog-vein, the carrying up of <hi>Curtis-Level,</hi> through the hardeſt Rocks, the freſh Diſcovery of the great Vein in the Weſt Level at the Shaft <hi>(E);</hi> the Hopes of a rich Copper Vein, and the nearneſs of the other Levels to the Shafts ſunk down in Oar at the Eaſt and Weſt end of the Mountain, whereby the diſtance is reduced to a Certainty; ſeems to us to be matters of no ſmall Importance, but as they give us hopes in time, of raiſing large Quntities of Oar, ſo the Profit we actually make thereof, puts us beyond all doubt of the Goodneſs of it; eſpecially when we conſider, that the very ſilver out of theſe Mines, may in a reaſonable time be ſufficient to anſwer Intereſt, and that the Lead and Lytharge are Commodities of our own Country, not periſhable in their Nature, nor like to loſe their Value or Vent, either in time of War or Peace.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. Collins,</hi> in the <hi>Old Baily.</hi> 1700.</p>
+            <pb facs="tcp:47156:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
